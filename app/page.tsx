@@ -27,7 +27,7 @@ export default function Home() {
           <div className="w-1/2">
             <AccessibleIframe
               src="/form2"
-              title="Registration Form"
+              title="User Registration"
               description="User registration form with radio buttons, checkboxes, and switches"
               className="w-full h-96"
             />
