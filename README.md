@@ -1,12 +1,5 @@
 # Accessible iframe focus
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/nathanwrightumbrellaheals-projects/v0-accessible-iframe-focus)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/faB6KgjXyPr)
-
-## Overview
-
 A demonstration of accessible iframe implementation with proper keyboard navigation and focus management. This project showcases how to create iframes that are fully accessible to keyboard users and screen readers, with visible focus states and intuitive navigation patterns.
 
 ## Features
@@ -87,25 +80,6 @@ The solution uses focusable wrapper divs around iframes to intercept keyboard na
 - Global keyboard shortcuts that work regardless of iframe content
 - Proper screen reader announcements and ARIA support
 - Same-origin communication for enhanced accessibility features
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/nathanwrightumbrellaheals-projects/v0-accessible-iframe-focus](https://vercel.com/nathanwrightumbrellaheals-projects/v0-accessible-iframe-focus)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/faB6KgjXyPr](https://v0.app/chat/projects/faB6KgjXyPr)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
 
 ## Contributing
 
