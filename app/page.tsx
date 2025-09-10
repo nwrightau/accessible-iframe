@@ -35,7 +35,7 @@ export default function Home() {
         </div>
 
         <div className="space-y-4">
-          <h2 className="text-xl font-semibold">Features</h2>
+          <h2 className="text-2xl font-semibold">Features</h2>
           <ul className="list-disc list-inside space-y-2 text-muted-foreground">
             <li>Two same-origin iframes with interactive shadcn forms</li>
             <li>Tab navigation between iframe containers</li>
